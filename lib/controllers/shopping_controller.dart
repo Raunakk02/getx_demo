@@ -1,5 +1,5 @@
 import 'package:get/state_manager.dart';
-import 'package:online_shopee/models/product.dart';
+import '../models/product.dart';
 
 class ShoppingController extends GetxController {
   var products = <Product>[].obs;

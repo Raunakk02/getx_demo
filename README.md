@@ -1,4 +1,12 @@
-# Online Shopee | GetX State Management
+# Demo Shop | GetX
+
+This project provides basic functionalities of a shop application like buying products and storing them in the cart. 
+The number of items in the cart is automatically updated using the GetX state management solution and also the navigation within
+the application is handled by the GetX route management feature.
+
+## Motivation
+
+The sole purpose of this project is to describe the usage of getx library for state management, routes management, and dependency management as well as to overcome the issues faced for writing tests with getx package; especially widget tests!
 
 ## Getting Started
 

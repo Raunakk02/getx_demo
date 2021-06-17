@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:online_shopee/controllers/cart_controller.dart';
-import 'package:online_shopee/controllers/shopping_controller.dart';
-import 'package:online_shopee/views/cart_page.dart';
+import '../controllers/cart_controller.dart';
+import '../controllers/shopping_controller.dart';
+import '../views/cart_page.dart';
 
 class ShoppingPage extends StatelessWidget {
   final shoppingController = Get.put(ShoppingController());
