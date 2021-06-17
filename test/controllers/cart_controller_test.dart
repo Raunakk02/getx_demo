@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:get/get.dart';
-import 'package:online_shopee/controllers/cart_controller.dart';
-import 'package:online_shopee/models/product.dart';
+import '../../lib/controllers/cart_controller.dart';
+import '../../lib/models/product.dart';
 
 CartController cartController;
 

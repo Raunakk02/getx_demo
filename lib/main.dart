@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:online_shopee/views/cart_page.dart';
-import 'package:online_shopee/views/shopping_page.dart';
+import './views/cart_page.dart';
+import './views/shopping_page.dart';
 
 void main() {
   runApp(MyApp());

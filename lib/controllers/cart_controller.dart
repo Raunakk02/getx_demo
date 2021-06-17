@@ -1,5 +1,5 @@
 import 'package:get/state_manager.dart';
-import 'package:online_shopee/models/product.dart';
+import '../models/product.dart';
 
 class CartController extends GetxController {
   var cartItems = <Product>[].obs;

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:get/get.dart';
-import 'package:online_shopee/controllers/shopping_controller.dart';
+import '../../lib/controllers/shopping_controller.dart';
 
 ShoppingController shoppingController;
 
